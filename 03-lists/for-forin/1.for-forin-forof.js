@@ -27,7 +27,7 @@ async function main() {
             names.push(pessoa.name)
         }
         console.timeEnd('forof')
-        
+
     } catch (error) {
         console.log(error)
     }
