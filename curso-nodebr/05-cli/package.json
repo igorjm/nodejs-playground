@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "commander": "^2.20.0"
   }
 }
