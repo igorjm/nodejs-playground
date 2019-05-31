@@ -2,13 +2,13 @@
 // docker exec -it /*id docker mongo */ mongo -u igorjm -p node123 --authenticationDatabase herois
 
 // databases
-show dbs
+// show dbs;
 
 // mudando o xontexto para uma database
-use herois
+// use herois;
 
 // mostrar tables (collections)
-show collections
+// show collections;
 
 db.herois.insert({
     nome: 'Flash',
