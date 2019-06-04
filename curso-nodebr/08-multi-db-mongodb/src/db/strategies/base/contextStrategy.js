@@ -12,7 +12,7 @@ class ContextStrategy extends ICrud {
     }
 
     read(item) {
-        return this._database.read(item)
+        return this._database.read(item, skip, limit)
     }
 
     update(id, item) {
