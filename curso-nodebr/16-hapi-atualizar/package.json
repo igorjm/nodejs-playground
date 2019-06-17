@@ -1,5 +1,5 @@
 {
-  "name": "14-hapi-listar-joi",
+  "name": "16-hapi-atualizar",
   "version": "1.0.0",
   "description": "docker run \\     --name postgres \\     -e POSTGRES_USER=igorjm \\     -e POSTGRES_PASSWORD=node123 \\     -e POSTGRES_DB=heroes \\     -p 5432:5432 \\     -d \\     postgres",
   "main": "index.js",
